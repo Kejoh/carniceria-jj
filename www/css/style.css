@@ -1,1 +1,7 @@
 /* Empty. Add your own CSS if you like */
+.carousel-inner > .item > img,
+  .carousel-inner > .item > a > img {
+      width: 70%;
+      margin: auto;
+  }
+  
